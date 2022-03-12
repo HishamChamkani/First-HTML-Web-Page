@@ -1,0 +1,47 @@
+img{
+    width:150px;
+    height:52px;
+}
+.para{
+    text-align: center;
+}
+.topnav{
+    color: #007CDC;
+    text-align: right;
+    font-weight: bolder;
+    line-height: 24px;
+    font-family: Roboto, sans-serif;
+    font-size: 15px;
+    text-transform: uppercase;
+}
+
+.topnav a{
+    padding: 14px 16px;  
+}
+body{
+    background-color: #FFFFFF
+}
+h1{
+    margin-left: 350px;
+    margin-top: 50px;
+    color:#000203  ;
+    font-family: Georgia;
+    font-size:50px;
+    line-height: 50px;
+    font-weight: 500;
+}    
+h2{
+    margin-top: 50px;
+    font-size: 30px;
+    font-style: italic;
+    
+
+}
+p{
+    font-size:22px;
+    color: #3a3a3a;
+    font-family:Roboto;
+}
+h4{
+    text-align: center;
+}
